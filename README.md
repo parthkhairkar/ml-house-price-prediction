@@ -40,11 +40,6 @@ It demonstrates how Machine Learning engineers improve models in real-world proj
 
 ---
 
-## 📈 Performance Charts
-
-| Actual vs Predicted | RMSE Comparison |
-|---|---|
-| ![Performance](assets/performance_plot.png) | ![RMSE](assets/rmse_plot.png) |
 
 ---
 
@@ -137,11 +132,6 @@ predictions = model.predict(X_test_scaled)
 
 ---
 
-## 📄 Report
-
-A detailed 2-page PDF report is available in [`reports/AI_ML_Task2_Report.pdf`](reports/AI_ML_Task2_Report.pdf) covering methodology, results, charts, and model selection justification.
-
----
 
 ## 🤝 Acknowledgements
 
